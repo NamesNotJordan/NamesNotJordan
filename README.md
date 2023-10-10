@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hey there, My Name is NOT Jordan 👋
+You'll probably call me Jordan anyway and that's okay
 <!--
 **NamesNotJordan/NamesNotJordan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
