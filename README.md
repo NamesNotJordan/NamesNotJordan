@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### About Me
-I'm a South-African Computer Science student and developer based in Cape Town.
+I'm a South-African Computer Science graduate and developer based in Cape Town, South Africa.
 
 I've been branching out into web development using the Odin Project as my primary learning resource.
 
